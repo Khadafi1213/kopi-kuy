@@ -1,0 +1,51 @@
+{
+    "Cafe Latte": [
+        {
+            "foto": "https://sc04.alicdn.com/kf/U5c37064629f740bfa1d521772793a264n.png",
+            "nama": "Cafe latte",
+            "size": "100 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        }, {
+            "foto": "https://sc04.alicdn.com/kf/U118da3c0569e4f3db273c9b017f617dcd.png",
+            "nama": "Cafe latte",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        }
+    ],
+    "arabica": [
+       
+        {
+            "foto": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/2/22/7078994c-5464-4be8-b5a3-bdac6f0885fd.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://storage.googleapis.com/sirclo-prod-storefront/products/9f4cd34b-913e-4151-8274-240a04b46abc-gayo-wine-500gr.jpg",
+            "nama": "Latte Arabica",
+            "size": "500 Gram",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "https://siforestka.co.id/asset/foto_produk/WhatsApp_Image_2021-12-22_at_14_57_14_(1).jpeg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://s2.bukalapak.com/img/2421760331/large/2017_07_03T01_31_35_07_00.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+       
+    ]
+}
